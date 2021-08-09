@@ -305,11 +305,12 @@ def delete_folder_payload(dirname):
     print('                                 ↓')
     print('                                 ↓')
     print('                                 ↓')
-
-    subfolders= [f.path for f in os.scandir(dirname) if f.is_dir()]
-    for item in subfolders:
-        path = pathlib.Path(item)  
-        shutil.rmtree(path)
+    
+    if  not check_exits(dirname):
+        subfolders= [f.path for f in os.scandir(dirname) if f.is_dir()]
+        for item in subfolders:
+            path = pathlib.Path(item)  
+            shutil.rmtree(path)
 # ----------------------------------------------------------END IOS------------------------------------------------------------
 
 
