@@ -1,5 +1,7 @@
 # Gamota-Tools
 ----------------------------------------------Window----------------------------------------------------
+- Download Gamota tools: https://github.com/phamdai99/Gamota-Tools
+
 - Cài JDK : 
 	+ Link download JDK: https://www.oracle.com/java/technologies/javase-downloads.html
 	+ Link hướng dẫn cài đặt biến môi trường JAVA_HOME : https://www.youtube.com/watch?v=104dNWmM6Rs&t=143s

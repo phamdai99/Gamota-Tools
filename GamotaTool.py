@@ -1,3 +1,5 @@
+
+# -*- coding: utf-8 -*- 
 import os
 import time
 import zipfile
@@ -7,7 +9,6 @@ import xml.etree.ElementTree as ET
 import pathlib
 import shutil
 from pathlib import Path
-
 
 # ----------------------------------------------------------Android------------------------------------------------------------
 # Decompiling APK
