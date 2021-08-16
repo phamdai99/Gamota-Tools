@@ -5,7 +5,7 @@
 	+ Link tải: https://github.com/phamdai99/Gamota-Tools
 	<img src="https://user-images.githubusercontent.com/41050934/129511056-023a3f66-dc6d-4fae-8c8e-f37dcdfd0e89.png" alt="..." width="800" />
 	
-	+ Hướng dẫn tải: Truy cập vào link https://github.com/phamdai99/Gamota-Tools -> Chọn Code -> Chọn Download Zip-> Chọn nơi lưu tools -> giải nén thư mục vừa tải về
+	+ Hướng dẫn tải: Truy cập vào link https://github.com/phamdai99/Gamota-Tools -> Chọn Code -> Chọn Download Zip-> Chọn nơi lưu -> giải nén thư mục vừa tải về
 
 - Python: 
   	+ Link tải: https://www.python.org/downloads/
@@ -20,14 +20,21 @@
 2. Hướng dẫn chạy Gamota Tools để đọc thông tin file APK hoặc file IPA
 - Mở Command Prompt
 - Cd tới thư mục Gamota Tools vừa tải về giải nén
-- Gõ lệnh: python3 GamotaTool.py -ai file.apk hoặc python3 GamotaTool.py -ai file.ipa
-- Ví dụ: python3 GamotaTool.py -ai C:\Users\daive\Desktop\HuaWei-GenericDis-V2.56.0-C19299-20210719104817.apk
+- Gõ lệnh: python3 GamotaTool.py -ai /path/file.apk hoặc python3 GamotaTool.py -ai /path/.ipa
 
 
 # --------------------Mac--------------------
-- Cài Python: 
-	+ Link download Python: https://www.python.org/downloads/
-- Xem thông tin file IPA: 
-	+ Vào thư mục Gamota Tools
-	+ Mở Terminal và chạy dòng lệnh: python GamotaTool.py -ai IPA
-	+ Ví dụ: python3 GamotaTool.py -ai VoLamKyHiep-dis-20210625.ipa
+1. Chuẩn bị: Gamota Tools, Python, JDK
+- Gamota Tools: 
+	+ Link tải: https://github.com/phamdai99/Gamota-Tools	
+	+ Hướng dẫn tải: Truy cập vào link https://github.com/phamdai99/Gamota-Tools -> Chọn Code -> Chọn Download Zip-> Chọn nơi lưu -> giải nén thư mục vừa tải về
+- Python: 
+  	+ Link tải: https://www.python.org/downloads/
+ 	+ Link hướng dẫn tải cài đặt python trên Mac: https://www.youtube.com/watch?v=7znraNl6cbI&ab_channel=Tr%C3%ADL%C3%AA
+- JDK
+	+ Link tải JDK: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+	+ Link hướng dẫn tải và cài đặt JDK: https://www.youtube.com/watch?v=N3U-xdUxr7U&ab_channel=PranaiErrepalli
+2. Hướng dẫn chạy Gamota Tools để đọc thông tin file APK hoặc file IPA trên MAC OS
+- Mở Terminal
+- Cd tới thư mục Gamota Tools vừa tải về giải nén
+- Gõ lệnh: python3 GamotaTool.py -ai /path/file.apk hoặc python3 GamotaTool.py -ai /path/file.ipa
