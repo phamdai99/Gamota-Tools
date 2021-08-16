@@ -1,8 +1,9 @@
 ----------------------------------------------Window----------------------------------------------------
 
 # 1. Chuẩn bị: Gamota Tools, Python, JDK
-- Gamota Tools: Link tải: https://github.com/phamdai99/Gamota-Tools
-<img src="https://user-images.githubusercontent.com/41050934/129511056-023a3f66-dc6d-4fae-8c8e-f37dcdfd0e89.png" alt="..." width="800" />
+- Gamota Tools: 
+	+ Link tải: https://github.com/phamdai99/Gamota-Tools
+	<img src="https://user-images.githubusercontent.com/41050934/129511056-023a3f66-dc6d-4fae-8c8e-f37dcdfd0e89.png" alt="..." width="800" />
 
 - Python: 
   	+ Link tải: https://www.python.org/downloads/
