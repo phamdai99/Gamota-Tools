@@ -9,10 +9,14 @@
 
 - Python: 
   	+ Link tải: https://www.python.org/downloads/
-  <img src="https://user-images.githubusercontent.com/41050934/129512671-d5e4a29e-69fc-4ed9-8096-21ad520d678e.png" alt="..." width="800" />
+ 	<img src="https://user-images.githubusercontent.com/41050934/129512671-d5e4a29e-69fc-4ed9-8096-21ad520d678e.png" alt="..." width="800" />
   
  	+ Link hướng dẫn cài đặt python trên Window: https://www.youtube.com/watch?v=uDbDIhR76H4&ab_channel=AmitThinks
-
+- JDK
+	+ Link tải JDK: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+	<img src="https://user-images.githubusercontent.com/41050934/129514254-32353cdc-ecb7-4ed8-8944-01e5f25732c9.png" alt="..." width="800" />
+	
+	+ Hướng dẫn tải về: Truy cập vào link https://www.oracle.com/java/technologies/javase-jdk16-downloads.html -> chọn Windows x64 Installer -> chọn thư mục lưu
 
 
 
