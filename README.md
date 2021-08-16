@@ -3,10 +3,10 @@
 
 1 Chuẩn bị: Gamota Tools, Python, JDK
 - Gamota Tool: Link tải: https://github.com/phamdai99/Gamota-Tools
-
-https://user-images.githubusercontent.com/41050934/129511056-023a3f66-dc6d-4fae-8c8e-f37dcdfd0e89.png
-
 <img src="https://user-images.githubusercontent.com/41050934/129511056-023a3f66-dc6d-4fae-8c8e-f37dcdfd0e89.png" alt="..." width="800" />
+- Python
+  Link tải: https://www.python.org/downloads/
+  <img src="  https://user-images.githubusercontent.com/41050934/129512671-d5e4a29e-69fc-4ed9-8096-21ad520d678e.png" alt="..." width="800" />
 
 
 
