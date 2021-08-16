@@ -34,7 +34,7 @@
 - JDK
 	+ Link tải JDK: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 	+ Link hướng dẫn tải và cài đặt JDK: https://www.youtube.com/watch?v=N3U-xdUxr7U&ab_channel=PranaiErrepalli
-2. Hướng dẫn chạy Gamota Tools để đọc thông tin file APK hoặc file IPA trên MAC OS
+2. Hướng dẫn chạy Gamota Tools để đọc thông tin file APK hoặc file IPA trên MAC
 - Mở Terminal
 - Cd tới thư mục Gamota Tools vừa tải về giải nén
 - Gõ lệnh: python3 GamotaTool.py -ai /path/file.apk hoặc python3 GamotaTool.py -ai /path/file.ipa
