@@ -5,7 +5,7 @@
 - Gamota Tool: Link tải: https://github.com/phamdai99/Gamota-Tools
 ![Tải về](https://user-images.githubusercontent.com/41050934/129511056-023a3f66-dc6d-4fae-8c8e-f37dcdfd0e89.png)
 
-<img src="https://user-images.githubusercontent.com/41050934/129511056-023a3f66-dc6d-4fae-8c8e-f37dcdfd0e89.png" alt="..." width="500" />
+<img src="https://user-images.githubusercontent.com/41050934/129511056-023a3f66-dc6d-4fae-8c8e-f37dcdfd0e89.png" alt="..." width="700" />
 
 
 
