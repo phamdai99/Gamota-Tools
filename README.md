@@ -16,7 +16,7 @@
 	+ Link tải JDK: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 	<img src="https://user-images.githubusercontent.com/41050934/129514254-32353cdc-ecb7-4ed8-8944-01e5f25732c9.png" alt="..." width="800" />
 	
-	+ Hướng dẫn tải về: Truy cập vào link https://www.oracle.com/java/technologies/javase-jdk16-downloads.html -> chọn Windows x64 Installer -> chọn thư mục lưu
+	+ Link hướng dẫn tải và cài đặt JDK: https://www.youtube.com/watch?v=e9dtY_IPhp4&ab_channel=Huy%C4%90%C3%A0m
 
 
 
